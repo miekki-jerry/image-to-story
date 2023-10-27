@@ -9,5 +9,9 @@ Story generation is working thanks to LangChain.
 - You can hear stories thanks to Hugging Face text-to-speech model.
 
 ## Disclaimer
-I built this project because I wanted to know better the Hugging Face API, LangChain, replicate API and multimodals, such as Lava-13b.
+I built this project because I wanted to know better the 
+👉🏻 Hugging Face API and transformers,
+👉🏻 LangChain, 
+👉🏻 Replicate API 
+👉🏻 and multimodals, such as Lava-13b.
 To get better text to speech quality it's better to use Eleven Labs.
