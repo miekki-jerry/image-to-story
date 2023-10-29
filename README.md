@@ -10,8 +10,8 @@ Story generation is working thanks to LangChain.
 
 ## Disclaimer
 I built this project because I wanted to know better the 
-👉🏻 Hugging Face API and transformers,
-👉🏻 LangChain, 
-👉🏻 Replicate API 
-👉🏻 and multimodals, such as Lava-13b.
+- 👉🏻 Hugging Face API and transformers,
+- 👉🏻 LangChain, 
+- 👉🏻 Replicate API 
+- 👉🏻 and multimodals, such as Lava-13b.
 To get better text to speech quality it's better to use Eleven Labs.
